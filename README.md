@@ -1,2 +1,2 @@
-# Binary-Search-Tree-JS-BST
- Binary Search Tree (BST) data structure implementation in JS
+# Rarity News
+Rarity News is a blog devoted to the NFT world. As we know NFTs have taken the world by storm, where every other person wants to be involved with this new technology. Our blogs will keep our users updated about every news related to NFTs on a daily basis. We require an API key from OpenSea as we know it is the first and biggest NFT marketplace and all the hot new projects come to OpenSea first. We would be more than happy to give credit to OpenSea for helping us out by allocating us an API key.
